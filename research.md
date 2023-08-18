@@ -1,7 +1,6 @@
 ---
 layout: default
-title: ""
-permalink: /:title/
+title: "Research"
 ---
 
 {% if site.show_excerpts %}
