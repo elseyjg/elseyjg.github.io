@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "ElseyJG_CV.pdf", title: "CV", icon: home}
+  - {file: "ElseyJG_CV.pdf", title: "CV"}
   - {title: "Lab", url: "https://www.hopkinsmedicine.org/research/labs/veit-stuphorn-laboratory"}
   - {title: "Blog", file: "blog.md"}
 
