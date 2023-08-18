@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "About"
 ---
 
 ![headshot](/assets/ElseyJG_Pic2.jpg)
