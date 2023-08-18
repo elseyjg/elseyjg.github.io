@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ""
+permalink: /:title/
 ---
 
 {% if site.show_excerpts %}
