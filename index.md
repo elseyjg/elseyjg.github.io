@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ""
+permalink: /:title/
 ---
 
 ![headshot](/assets/ElseyJG_Pic2.jpg)
